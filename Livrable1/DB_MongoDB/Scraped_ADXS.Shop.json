@@ -1,0 +1,828 @@
+[{
+  "_id": {
+    "$oid": "65452087a1a5fe698097adfb"
+  },
+  "name": "Series TV",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cité U"
+  ],
+  "city": [
+    " Yaoundé"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "237694569554"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097adfc"
+  },
+  "name": "Bazar Shopping",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Bonas"
+  ],
+  "city": [
+    " Yaoundé"
+  ],
+  "state": [
+    " Cameroun"
+  ],
+  "country": [
+    " Cameroun "
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097adfd"
+  },
+  "name": "Computer Shoping",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Bonamoussadi"
+  ],
+  "city": [
+    " Douala"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "237699884455"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097adfe"
+  },
+  "name": "Christy Shop",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Douala"
+  ],
+  "city": [
+    " Cameroun "
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "+237699885544"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097adff"
+  },
+  "name": "YKGCMR",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "237695980808"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae00"
+  },
+  "name": "Adeline Shopping",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae01"
+  },
+  "name": "Kath VM",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Bepanda"
+  ],
+  "city": [
+    " Douala"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "+237695656212"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae02"
+  },
+  "name": "Geraldine Shop",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "237679610142"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae03"
+  },
+  "name": "Que du bon Shop",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "696272954"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae04"
+  },
+  "name": "DorlyShop",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae05"
+  },
+  "name": "Emilie Shopping",
+  "site": "durell_market",
+  "rating": 500,
+  "street": [
+    " Mboppi. Douala"
+  ],
+  "city": [
+    " Douala"
+  ],
+  "state": [
+    " Cameroon"
+  ],
+  "country": [
+    " Cameroun "
+  ],
+  "phone": [
+    "655408055"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae06"
+  },
+  "name": "Abo Shop",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "+23774856699"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae07"
+  },
+  "name": "Achillo Fashion",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "+23765544115"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae08"
+  },
+  "name": "Afissou Boutique",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "+23765544114"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae09"
+  },
+  "name": "Andre Boutique",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae0a"
+  },
+  "name": "Gladys Shopping",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae0b"
+  },
+  "name": "BeHappy",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Sénégal "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "00221777148841"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae0c"
+  },
+  "name": "Leader Electronic",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae0d"
+  },
+  "name": "DGY Librairie",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "+237"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae0e"
+  },
+  "name": "Hair 360 Lacewigs",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae0f"
+  },
+  "name": "Naal SARL",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Logpom"
+  ],
+  "city": [
+    " Douala"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "691190974"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae10"
+  },
+  "name": "Dallas Sweety",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Cameroun "
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae11"
+  },
+  "name": "Petit Mboppi SARL",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Douala"
+  ],
+  "city": [
+    " Littoral"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "682345737"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae12"
+  },
+  "name": "Washingtonien",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Station MRS Face CHU"
+  ],
+  "city": [
+    " Cameroun "
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae13"
+  },
+  "name": "LEEF Paris",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Ngoa Ekélé"
+  ],
+  "city": [
+    " Yaoundé"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "237696818177"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae14"
+  },
+  "name": "IcorpShop",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    ""
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "699556021"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae15"
+  },
+  "name": "Boloboss",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    ""
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "690170654"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae16"
+  },
+  "name": "Dvt-London-Brocante",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    ""
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "23773605772"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae17"
+  },
+  "name": "360Hair",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    ""
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae18"
+  },
+  "name": "magicdownloader",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    ""
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "237699556021"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae19"
+  },
+  "name": "LeaderElectronique",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    ""
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae1a"
+  },
+  "name": "BeHappys",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    ""
+  ],
+  "city": [
+    ""
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae1b"
+  },
+  "name": "Perla zip",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Mbankolo"
+  ],
+  "city": [
+    " Yaoundé"
+  ],
+  "state": [
+    " Centre"
+  ],
+  "country": [
+    " Cameroun "
+  ],
+  "phone": [
+    "682428259"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae1c"
+  },
+  "name": "Shopping Vetements",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Douala"
+  ],
+  "city": [
+    " Littoral"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "+237690069962"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae1d"
+  },
+  "name": "Access Douala",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Douala"
+  ],
+  "city": [
+    " Cameroun "
+  ],
+  "state": [
+    ""
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "690480438"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65452087a1a5fe698097ae1e"
+  },
+  "name": "Nicywax",
+  "site": "durell_market",
+  "rating": 0,
+  "street": [
+    " Yaoundé"
+  ],
+  "city": [
+    " Centre"
+  ],
+  "state": [
+    " Cameroun "
+  ],
+  "country": [
+    ""
+  ],
+  "phone": [
+    "674296202"
+  ]
+}]
